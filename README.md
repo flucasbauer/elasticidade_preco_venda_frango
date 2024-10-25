@@ -4,7 +4,7 @@ O aumento nas exportações de soja pode reduzir a oferta doméstica de soja dis
 
 - Para cada aumento de 1% nas exportações de soja (em bilhões de dólares), espera-se que o preço médio de venda do frango pelos agricultores aumente 0,544%.
 
-Os Gráficos 1 e 2 a seguir ilustram a similaridade das duas variáveis, fundamentando a relação positiva obtida pela matriz de correlação (Gráfico 3).
+Os Gráficos 1 e 2 a seguir indicam uma similaridade das duas variáveis, sinalizando a relação positiva obtida pela matriz de correlação (Gráfico 3).
 
 **Gráfico 1 - Exportação de Grãos de Soja em Bilhões de Dólares**
 
