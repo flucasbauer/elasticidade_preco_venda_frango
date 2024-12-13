@@ -1,4 +1,4 @@
-# Elasticidade Preço de Venda do Frango Pelos Produtores
+## Elasticidade Preço do Frango Pelos Produtores
 
 ### 0 Sobre o estudo
 
@@ -10,16 +10,18 @@ A relação entre o mercado de exportação de soja e os custos de produção de
 
 Neste estudo, utilizamos uma abordagem econométrica para investigar como as variações nas exportações de soja impactam os preços de venda do frango pelos produtores. Essa análise fornece insights importantes sobre a elasticidade preço, uma métrica que descreve a sensibilidade da variável dependente (preço do frango) às variações em uma variável independente (exportação de soja). A metodologia aplicada permite compreender como a dinâmica do mercado externo influencia os produtores domésticos e o mercado interno.
 
+Ao entender como as exportações de soja influenciam os custos de produção do frango e, consequentemente, seu preço de venda, os produtores podem ajustar suas estratégias de precificação e planejamento financeiro, podem antecipar movimentos no mercado de soja e planejar a compra de ração, buscando mitigar impactos de alta nos preços, entre muitas outras estratégias que podem contribuir para o negócio.
+
 ### 2 Objetivo
 
 O objetivo deste estudo é mensurar a elasticidade preço de venda do frango em relação ao aumento das exportações de soja pelos produtores brasileiros. Por meio de um modelo econométrico log-log, buscamos identificar e quantificar a relação positiva entre essas variáveis, oferecendo uma interpretação clara de como as mudanças percentuais nas exportações de soja afetam os preços médios de venda do frango.
 
 ### 3 Metodologia
 
-##### 3.1 Modelo log-log
+#### 3.1 Modelo log-log
 Neste estudo, foi utilizado um modelo econométrico de regressão log-linear, também conhecido como modelo log-log. Os coeficientes obtidos representam variações percentuais, indicando como uma mudança percentual em X afeta Y. Como referência teórica, foi utilizado o livro *Econometria Básica* de Gujarati, 5ª edição.
 
-##### 3.2 Base de Dados
+#### 3.2 Base de Dados
 
 - IBGE;
 - ComexStata.
@@ -29,7 +31,7 @@ Para segmentar os dados de exportação, foi utilizado o mesmo critério dos est
 - **1507:** a descrição do produto exportado é *óleo de soja e respectivas frações, mesmo refinados, mas não quimicamente modificados* denominado no estudo como **óleo de soja;**
 - **2304:** a descrição do produto exportado é *Tortas e outros resíduos sólidos da extração do óleo de soja* denominado no estudo como **farelo de soja.**
 
-### Resultados
+### 4 Resultados
 
 O aumento nas exportações de soja pode reduzir a oferta doméstica de soja disponível para o consumo interno, incluindo a ração para aves. Como o custo da ração é um fator relevante na produção de frango, isso pode elevar os custos de produção e, consequentemente, o preço do frango.
 
@@ -50,9 +52,7 @@ Os Gráficos 1 e 2 a seguir indicam uma similaridade das duas variáveis, sinali
 
 
 
-
-
-# Recomendação de Continuação do Estudo
+#### 4.1 Recomendação de Continuação do Estudo
 A matriz de correlação revelou uma informação importante: enquanto as exportações de grãos de soja no Brasil têm aumentado durante o período analisado, as exportações de óleo de soja apresentam uma tendência de queda desde 2008.
 
 **Gráfico 4 - Exportações de Óleo de Soja em Bilhões de Dólares**
